@@ -1,0 +1,6 @@
+@TiendaServicions.Carrito_HostAddress = http://localhost:5201
+
+GET {{TiendaServicions.Carrito_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
